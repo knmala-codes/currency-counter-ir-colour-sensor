@@ -61,3 +61,10 @@ If misclassifications occur, adjust the RGB threshold ranges for each note type 
 - Designed as a learning prototype, not a commercial‑grade machine.
 
 Potential improvements: better mechanical feeding, shielding from light, extra sensors (UV/magnetic), or ML‑based classification instead of hardcoded ranges.
+
+---
+
+HARDWARE CONNECTIONS:
+
+<img width="694" height="562" alt="image" src="https://github.com/user-attachments/assets/fd8f9ad1-17e0-4adc-a4d0-7f8aab9e3887" />
+
