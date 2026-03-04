@@ -62,3 +62,6 @@ If misclassifications occur, adjust the RGB threshold ranges for each note type 
 
 Potential improvements: better mechanical feeding, shielding from light, extra sensors (UV/magnetic), or ML‑based classification instead of hardcoded ranges.
 
+---
+AUTHORSHIP:
+This project was developed by Kanchanamala P as part of BEEE102L at VIT Chennai; do not submit it as your own coursework.
